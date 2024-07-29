@@ -1,0 +1,18 @@
+.form__sending {
+    border: 1px #FFC0CB solid;
+    border-radius: 20px;
+    width: 45vw;
+    height: 50vh;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    resize: none;
+    background-color: white;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.form__sending:focus {
+    border: 5px #FFC0CB  solid;
+}

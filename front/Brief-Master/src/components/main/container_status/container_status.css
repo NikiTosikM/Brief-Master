@@ -1,0 +1,26 @@
+.container__status {
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: black;
+}
+
+.error_status {
+    padding: 3px 25px;
+    background-color: rgb(231, 88, 88);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px #d80629 solid;
+    border-radius: 20px;
+    color: black;
+}
+
+.ok_status {
+    padding: 3px 25px;
+    background-color: rgb(74, 210, 74);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px #21b407 solid;
+    border-radius: 20px;
+    color: black;
+}

@@ -1,0 +1,45 @@
+.container__register {
+    border: 3px black solid;
+    border-radius: 30px;
+    padding: 5px;
+    width: 45vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.hr__register {
+    height: 3px;
+    width: 85%;
+    background-color: black;
+    border-radius: 5px;
+    margin-bottom: 45px;
+}
+
+.title__register {
+    color: black;
+    font-size: 55px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.button__create-account {
+    width: 50%;
+    height: 10%;
+    border-radius: 30px;
+    background-color: grey;
+    margin-bottom: -50px;
+}
+
+.input__field__register {
+    width: 85%;
+    background-color: white;
+    height: 5%;
+    border: 0;
+    color: black;
+    font-size: 30px;
+}

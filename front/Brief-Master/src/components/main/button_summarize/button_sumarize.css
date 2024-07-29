@@ -1,0 +1,15 @@
+.button__summarize {
+    position: absolute;
+    bottom: 60px;
+    right: 15%;
+    padding: 0 10px;
+    width: 25vw;
+    height: 6vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 2px #E98596 solid;
+    border-radius: 30px;
+    background-color: #FFC0CB;
+    font-size: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
